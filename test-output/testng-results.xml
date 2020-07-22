@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6475" started-at="2020-07-22T18:36:39Z" finished-at="2020-07-22T18:36:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6475" started-at="2020-07-22T18:36:39Z" finished-at="2020-07-22T18:36:45Z">
+      <class name="test.CheckBoxTest$assertions">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:test.CheckBoxTest$assertions@55040f2f]" name="testOne" duration-ms="29" started-at="2020-07-22T13:36:39Z" finished-at="2020-07-22T13:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+      </class> <!-- test.CheckBoxTest$assertions -->
+      <class name="test.CheckBoxTest">
+        <test-method status="PASS" signature="validUserShouldBeAbleToRemoveSingleListItem()[pri:0, instance:test.CheckBoxTest@36f0f1be]" name="validUserShouldBeAbleToRemoveSingleListItem" duration-ms="6374" started-at="2020-07-22T13:36:39Z" finished-at="2020-07-22T13:36:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToRemoveSingleListItem -->
+      </class> <!-- test.CheckBoxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
